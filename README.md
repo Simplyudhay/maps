@@ -9,3 +9,10 @@ Users should be able to:
 - Toggle the color scheme between light and dark mode _(optional)_
 
 
+Contributors
+- Ebenezer Nitin P N
+- Prasana K
+- Praveen Kumar C R
+- Sanjeevan S
+- Tharun Visakan K
+- Udhayakumar R
